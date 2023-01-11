@@ -15,7 +15,7 @@
 - Clique com o botão direito no arquivo `config.json`.
 - Abra o arquivo no bloco de notas ou em um editor de código, por exemplo, VSC (Visual Studio Code).
 - Certifique-se de adicionar seu [Token de usuário](https://www.youtube.com/watch?v=YEgFvgg7ZPI) for the script to work.
-- Preencha TODOS os requisitos.
+- Preencha TODAS as strings.
 - Salve.
 ----------
 
