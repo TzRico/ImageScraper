@@ -21,9 +21,9 @@
 
 ## Propriedades de configurações
 - `TOKEN`| `string` | Seu token de conta | Como obter token? [Clique aqui](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
-- `FETCHCHANEL_ID` | ID do canal que o self vai copiar os links das imagens/gifs.
-- `WEBHOOK_ID`| `string` | Seu ID da webhook.
-- `WEBHOOK_TOKEN`| `string` | Seu token da webhook.
+- `FETCHCHANEL_ID` | `string` | ID do canal que o self vai copiar os links das imagens/gifs.
+- `WEBHOOK_ID` | `string` | Seu ID da webhook.
+- `WEBHOOK_TOKEN` | `string` | Seu token da webhook.
 
 ### Exemplo: `config.json`
 
