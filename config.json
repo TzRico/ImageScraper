@@ -1,0 +1,6 @@
+{
+    "token": "TOKEN DA CONTA",
+    "fetchChanel_id": "ID DO CANAL DAS IMAGENS A SEREM COPIADAS",
+    "webHook_id": "ID DA WEBHOOK",
+    "webHook_token": "TOKEN DA WEBHOOK"
+}
