@@ -54,4 +54,4 @@ Execute o arquivo `Ligar.bat`.
 
 ----
 
-> SelfCall by Tz está licenciado sob Attribution 4.0 International
+> ImageScraper by Tz está licenciado sob Attribution 4.0 International
