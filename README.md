@@ -1,6 +1,6 @@
 # Image Scraper
 
-![](https://media.discordapp.net/attachments/864361757874323476/866420331185831956/unknown.png)
+![](https://media.discordapp.net/attachments/1062790187844911234/1062793731012563004/image.png)
 
 
 ----------
