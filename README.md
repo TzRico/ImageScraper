@@ -49,3 +49,9 @@ Execute o arquivo `Ligar.bat`.
 ﹒[Discord](https://discord.com/users/472756345909805059)
 ﹒[servidor do discord](https://discord.gg/giflandia)
 ﹒[Steam](https://steamcommunity.com/id/Tzrico/)
+
+> ⭐ Sinta-se à vontade para marcar o repositório como estrela se isso o ajudou! ;)
+
+----
+
+> SelfCall by Tz está licenciado sob Attribution 4.0 International
