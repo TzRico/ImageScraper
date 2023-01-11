@@ -18,6 +18,24 @@
 - Preencha TODOS os requisitos.
 - Salve.
 ----------
+
+## Propriedades de configurações
+- `TOKEN`| `string` | Seu token de conta | Como obter token? [Clique aqui](https://www.youtube.com/watch?v=YEgFvgg7ZPI)
+- `FETCHCHANEL_ID` | ID do canal que o self vai copiar os links das imagens/gifs.
+- `WEBHOOK_ID`| `string` | Seu ID da webhook.
+- `WEBHOOK_TOKEN`| `string` | Seu token da webhook.
+
+### Exemplo: `config.json`
+
+```
+{
+    "TOKEN": "Njg1NTc3NTgzMzgzMDE5NTUw.XmLGLA.Ck1qHplDAoDzsGFEQOplIsRdkdd",
+    "FETCHCHANEL_ID: "953748242129117185",
+    "WEBHOOK_ID": "812241824567263253",
+    "WEBHOOK_TOKEN": "9dUpdCFEfBXLaENRKaRIrmRSlaLHymcjQ-lL9_mvnFpGiNb7SvjY_JKIUDkCsestPI10"
+}
+```
+
 **Comece:**
 
 Execute o arquivo `Ligar.bat`.
