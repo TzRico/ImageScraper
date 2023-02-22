@@ -6,3 +6,4 @@ function main() {
   return null;
 }
 main()
+console.log("hello mundo") //fds
